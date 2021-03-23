@@ -21,7 +21,7 @@ function whatIsHappening() {
 
 
 
-require 'products.php';
-require 'validate.php';
-require 'form-view.php';
+require 'src/products.php';
+require 'src/validate.php';
+require 'src/form-view.php';
 whatIsHappening();
